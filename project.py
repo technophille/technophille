@@ -116,9 +116,5 @@ elif chi=='7' or 'cle' in chi:                                                #t
 else:                                                                         #if the input fails
     print('input failed !! Try again')
 
-import truecallerpy as truecaller
 
-pip install truecallerpy
-
-sudo truecallerpy login
 
